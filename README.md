@@ -1,4 +1,4 @@
-# Password Manager Website Application
+# Account Manager Website Application
 
 ## Overview
 This project builds upon the foundation of a password management database which I created previously. The goal is to enhance the system by implementing features that make it more robust and user-friendly. This was done by adding PHP, HTML, and CSS to create a website application to put the database to use.
