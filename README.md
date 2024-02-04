@@ -17,3 +17,11 @@ The password management system, implemented as an MVC-based application, allows 
 - **Insert** new entries with details such as site/app name, URL, email address, username, password, and a comment.
 - **Delete** entries based on specified patterns.
 - **Refresh** the page with a prominently placed button.
+
+## Web App running 
+### (table shown in the result of a search)
+![SeachTestCase](https://github.com/DerimB/AccountManagerWebApp/assets/123917611/ffb77b8e-9e58-4382-91fd-96d53b2f843b)
+
+## Stored account data
+### Showcasing encrypted passwords
+![DatabaseAccountsPWEncrypted](https://github.com/DerimB/AccountManagerWebApp/assets/123917611/60076c8d-b4bf-4fe4-859c-71874dc08dd4)
