@@ -1,7 +1,7 @@
 # Account Manager Website Application
 
 ## Overview
-This project builds upon the foundation of a password management database which I created previously. The goal is to enhance the system by implementing features that make it more robust and user-friendly. This was done by adding PHP, HTML, and CSS to create a website application to put the database to use.
+This project builds upon the foundation of a password management database which I created previously. The goal was to enhance the system by implementing features that make it more robust and user-friendly. This was done by adding PHP, HTML, and CSS to create a website application to put the database to use.
 
 ## Features
 - **Relation Separation**: Content in flat relations is separated into distinct relations.
