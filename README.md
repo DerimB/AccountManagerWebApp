@@ -19,7 +19,7 @@ The password management system, implemented as an MVC-based application, allows 
 - **Refresh** the page with a prominently placed button.
 
 ## Web App running 
-### (table shown in the result of a search)
+### Table shown is the result of a search
 ![SeachTestCase](https://github.com/DerimB/AccountManagerWebApp/assets/123917611/ffb77b8e-9e58-4382-91fd-96d53b2f843b)
 
 ## Stored account data
